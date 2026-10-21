@@ -2,116 +2,121 @@
     <string name="app_name">Trail Gear Cart</string>
 
     <!-- shared -->
-    <string name="price">£%1$.2f</string>
-    <string name="price_total">Total: £%1$.2f</string>
-    <string name="back_icon_description">Back</string>
-    <string name="clear_cart_icon_description">Clear cart</string>
+    <string name="price">£ %1$.2f</string>
+    <string name="price_total">Gear total: £%1$.2f</string>
+    <string name="back_icon_description">Go back</string>
+    <string name="clear_cart_icon_description">Empty gear cart</string>
 
     <!-- top bar titles -->
-    <string name="toxye_top_bar_home_title">Home</string>
-    <string name="toxye_top_bar_cart_title">Cart</string>
-    <string name="toxye_top_bar_checkout_title">Checkout</string>
-    <string name="toxye_top_bar_orders_title">Orders</string>
-    <string name="toxye_top_bar_settings_title">Settings</string>
-    <string name="toxye_top_bar_product_details_title">Details</string>
-    <string name="toxye_top_bar_tagline">The best choice</string>
+    <string name="toxye_top_bar_home_title">Gear Shop</string>
+    <string name="toxye_top_bar_cart_title">Gear Cart</string>
+    <string name="toxye_top_bar_checkout_title">Gear Checkout</string>
+    <string name="toxye_top_bar_orders_title">Gear Orders</string>
+    <string name="toxye_top_bar_settings_title">Shop Settings</string>
+    <string name="toxye_top_bar_product_details_title">Gear Details</string>
+    <string name="toxye_top_bar_tagline">Ready for the trail</string>
 
     <!-- bottom bar navigation item titles -->
-    <string name="toxye_bottom_bar_nav_item_home_title">Home</string>
-    <string name="toxye_bottom_bar_nav_item_cart_title">Cart</string>
-    <string name="toxye_bottom_bar_nav_item_orders_title">Orders</string>
-    <string name="toxye_bottom_bar_nav_item_settings_title">Settings</string>
+    <string name="toxye_bottom_bar_nav_item_home_title">Explore</string>
+    <string name="toxye_bottom_bar_nav_item_cart_title">Gear Bag</string>
+    <string name="toxye_bottom_bar_nav_item_orders_title">Purchases</string>
+    <string name="toxye_bottom_bar_nav_item_settings_title">More</string>
 
     <!-- splash screen -->
-    <string name="toxye_app_logo_description">App logo</string>
-    <string name="splash_screen_tagline">Everything you need in one place</string>
+    <string name="toxye_app_logo_description">Trail gear logo</string>
+    <string name="splash_screen_tagline">Outdoor essentials for every adventure</string>
 
     <!-- onboarding screen -->
-    <string name="page_discover_title">Discover What You Need</string>
-    <string name="page_discover_description">Browse thousands of products across every category and find exactly what you\'re looking for.</string>
+    <string name="page_discover_title">Find Your Trail Gear</string>
+    <string name="page_discover_description">Browse dependable equipment for the campsite, trail, water, road, and home workout.</string>
 
-    <string name="page_checkout_title">Checkout Made Simple</string>
-    <string name="page_checkout_description">Secure payments and a fast, hassle-free checkout every time you shop.</string>
+    <string name="page_checkout_title">Pack Up with Ease</string>
+    <string name="page_checkout_description">Review your outdoor kit and place your gear order in just a few quick steps.</string>
 
-    <string name="page_delivery_title">Fast, Reliable Delivery</string>
-    <string name="page_delivery_description">Track your order in real time and get updates every step of the way.</string>
+    <string name="page_delivery_title">Gear Delivered Reliably</string>
+    <string name="page_delivery_description">Follow your equipment order and get updates before your next adventure.</string>
 
-    <string name="next_button_title">Next</string>
-    <string name="start_button_title">Start</string>
-    <string name="skip_button_title">Skip</string>
+    <string name="next_button_title">Continue</string>
+    <string name="start_button_title">Shop Gear</string>
+    <string name="skip_button_title">Browse Now</string>
 
     <!-- %1$s – button label (Next/Start), %2$d and %3$d – current page number and total number of pages. -->
-    <string name="onboarding_button_progress">%1$s · %2$d/%3$d</string>
+    <string name="onboarding_button_progress">%1$s • %2$d of %3$d</string>
 
     <!-- home screen -->
-    <string name="products_state_empty_primary_text">No products available</string>
-    <string name="home_featured_title">Featured</string>
-    <string name="home_categories_title">Categories</string>
-    <string name="home_products_title">Products</string>
-    <string name="home_products_count">%1$d items</string>
-    <string name="add_to_cart_icon_description">Add to cart</string>
+    <string name="products_state_empty_primary_text">No outdoor gear available</string>
+    <string name="home_featured_title">Trail Picks</string>
+    <string name="home_categories_title">Gear Types</string>
+    <string name="home_products_title">Outdoor Gear</string>
+    <string name="home_products_count">%1$d gear items</string>
+    <string name="add_to_cart_icon_description">Add gear to cart</string>
 
     <!-- product categories -->
-    <string name="toxye_category_all">All</string>
+    <string name="toxye_category_all">All Gear</string>
+    <string name="product_category_camping_title">Camping</string>
+    <string name="product_category_hiking_title">Hiking</string>
+    <string name="product_category_cycling_title">Cycling</string>
+    <string name="product_category_fitness_title">Fitness</string>
+    <string name="product_category_water_sports_title">Water Sports</string>
 
     <!-- product details screen -->
-    <string name="product_details_state_empty_primary_text">No information available for this product</string>
-    <string name="product_image_description">Product image</string>
-    <string name="button_add_to_cart_label">Add to Cart</string>
-    <string name="product_details_description_title">Description</string>
-    <string name="product_details_snackbar_added_to_cart">Added to cart</string>
+    <string name="product_details_state_empty_primary_text">No gear details available for this item</string>
+    <string name="product_image_description">Outdoor gear photo</string>
+    <string name="button_add_to_cart_label">Add Gear</string>
+    <string name="product_details_description_title">Gear Overview</string>
+    <string name="product_details_snackbar_added_to_cart">Gear added to cart</string>
 
     <!-- cart screen -->
-    <string name="cart_state_empty_primary_text">Nothing in your cart yet</string>
-    <string name="button_place_order_label">Place Order • £%1$.2f</string>
-    <string name="increase_quantity_icon_description">Increase quantity</string>
-    <string name="decrease_quantity_icon_description">Decrease quantity</string>
-    <string name="delete_item_icon_description">Delete item</string>
-    <string name="cart_items_count">Items: %1$d</string>
-    <string name="cart_item_quantity_multiplier">%1$s × %2$d</string>
-    <string name="cart_summary_subtotal_label">Subtotal</string>
-    <string name="cart_summary_delivery_label">Delivery</string>
-    <string name="cart_summary_delivery_free">Free</string>
-    <string name="cart_summary_total_label">Total</string>
+    <string name="cart_state_empty_primary_text">Your gear cart is empty</string>
+    <string name="button_place_order_label">Order Gear • £%1$.2f</string>
+    <string name="increase_quantity_icon_description">Add one gear item</string>
+    <string name="decrease_quantity_icon_description">Remove one gear item</string>
+    <string name="delete_item_icon_description">Remove gear item</string>
+    <string name="cart_items_count">Gear count: %1$d</string>
+    <string name="cart_item_quantity_multiplier">%1$s · Qty %2$d</string>
+    <string name="cart_summary_subtotal_label">Gear Subtotal</string>
+    <string name="cart_summary_delivery_label">Gear Delivery</string>
+    <string name="cart_summary_delivery_free">Included</string>
+    <string name="cart_summary_total_label">Order Total</string>
 
     <!-- orders screen -->
-    <string name="orders_state_empty_primary_text">You have no orders yet</string>
-    <string name="order_number">Order #%1$s</string>
-    <string name="order_customer">Customer: %1$s %2$s</string>
-    <string name="order_customer_email">Email: %1$s</string>
-    <string name="order_date_pattern">dd MMM yyyy, HH:mm</string>
-    <string name="order_status_confirmed">Confirmed</string>
-    <string name="order_total_label">Total</string>
+    <string name="orders_state_empty_primary_text">No gear orders placed yet</string>
+    <string name="order_number">Gear order #%1$s</string>
+    <string name="order_customer">Adventurer: %1$s %2$s</string>
+    <string name="order_customer_email">Contact: %1$s</string>
+    <string name="order_date_pattern">EEE, dd MMM yyyy • HH:mm</string>
+    <string name="order_status_confirmed">Gear Confirmed</string>
+    <string name="order_total_label">Order Total</string>
 
     <!-- checkout screen -->
-    <string name="checkout_headline">Almost there</string>
-    <string name="checkout_invitation">Leave your name and email — we\'ll confirm the order and keep you posted on delivery.</string>
-    <string name="checkout_text_field_first_name">First Name</string>
-    <string name="checkout_text_field_last_name">Last Name</string>
-    <string name="checkout_text_field_email">Email</string>
-    <string name="checkout_email_supporting_text">The order confirmation goes to this address</string>
-    <string name="checkout_email_error_text">Enter a valid email, for example name@example.com</string>
-    <string name="button_confirm_order_label">Confirm Order</string>
+    <string name="checkout_headline">Gear nearly packed</string>
+    <string name="checkout_invitation">Share your name and email — we\'ll confirm your gear order and delivery updates.</string>
+    <string name="checkout_text_field_first_name">Given Name</string>
+    <string name="checkout_text_field_last_name">Family Name</string>
+    <string name="checkout_text_field_email">Email Address</string>
+    <string name="checkout_email_supporting_text">Gear order updates go to this address</string>
+    <string name="checkout_email_error_text">Use a valid email, such as hiker@example.com</string>
+    <string name="button_confirm_order_label">Confirm Gear</string>
 
     <!-- checkout dialog -->
-    <string name="checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="checkout_dialog_confirm">Done</string>
+    <string name="checkout_dialog_title">Your Gear Is Ordered!</string>
+    <string name="checkout_success_message">Your outdoor gear order is confirmed. Our team will contact you shortly with delivery details.</string>
+    <string name="checkout_dialog_confirm">Great</string>
 
     <!-- settings screen -->
-    <string name="settings_screen_app_label">Application</string>
-    <string name="settings_screen_version_label">Version</string>
+    <string name="settings_screen_app_label">Gear Shop</string>
+    <string name="settings_screen_version_label">App Build</string>
     <string name="toxye_app_version">1.0.0</string>
 
-    <string name="settings_screen_company_label">Company</string>
+    <string name="settings_screen_company_label">Gear Retailer</string>
     <string name="toxye_company_name">DAVERI HOLDINGS LIMITED</string>
 
-    <string name="settings_screen_customer_support_label">Customer Support</string>
+    <string name="settings_screen_customer_support_label">Gear Support</string>
     <string name="toxye_customer_support_link">https://ecom-outlet-net.top</string>
 
     <!-- clear cart dialog -->
-    <string name="clear_cart_dialog_title">Clear cart?</string>
-    <string name="clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
-    <string name="button_confirm_clear_cart">Confirm</string>
-    <string name="button_cancel_clear_cart">Cancel</string>
+    <string name="clear_cart_dialog_title">Empty gear cart?</string>
+    <string name="clear_card_dialog_text">Remove every outdoor item from your gear cart?</string>
+    <string name="button_confirm_clear_cart">Empty Cart</string>
+    <string name="button_cancel_clear_cart">Keep Gear</string>
 </resources>
